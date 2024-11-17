@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarasShenouda
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning Flutter & Dart & Understand Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karasshenouda139@gmail.com 
 - 😄 Pronouns: Eng:Karas
