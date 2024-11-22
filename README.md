@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter & Dart & Understand Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karasshenouda139@gmail.com 
-- 😄 Pronouns: Eng:Karas
+- 😄 Pronouns: Eng:Karas Shenouda
 - ⚡ Fun fact: basketball
 
 <!---
